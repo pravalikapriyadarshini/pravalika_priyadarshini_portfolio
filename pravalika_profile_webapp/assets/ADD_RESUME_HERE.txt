@@ -1,0 +1,1 @@
+Place your PDF resume in this folder and name it resume.pdf. The website's resume buttons link to assets/resume.pdf.
